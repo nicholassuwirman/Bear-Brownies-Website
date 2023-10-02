@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Open+Sans:wght@600&family=Oswald:wght@400;500;700&family=PT+Sans&family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
+/* Colors:
+  primary: #4A1D1F
+  secondary: #272727
+  tertary: #FDF9ED
+  natural: #FFFFFF
+*/
+
+body {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --font-family: 'Poppins';
+}

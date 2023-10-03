@@ -9,8 +9,8 @@ const Menu = () => {
   return (
       <>  {/* to itu basically href. Codenya dicopy dari https://www.npmjs.com/package/react-scroll.Janlup npm install react-scroll */}
         <Link to="product" spy={true} smooth={true} duration={500} className="navbar-text">Produk</Link>
-        <Link to="" spy={true} smooth={true} duration={500} className="navbar-text">Testimoni</Link>
-        <Link to="" spy={true} smooth={true} duration={500} className="navbar-text">Tentang Kami</Link>
+        <Link to="about-us" spy={true} smooth={true} duration={500} className="navbar-text">Tentang Kami</Link>
+        <Link to="" spy={true} smooth={true} duration={500} className="navbar-text">Pertanyaan"</Link>
         <Link to="" spy={true} smooth={true} duration={500} className="navbar-text">Kontak Kami</Link>
       </>
   )

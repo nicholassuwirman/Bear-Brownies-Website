@@ -20,10 +20,6 @@
   font-weight: 500;
 }
 
-.navbar-text:hover {
-  color: #4A1D1F;
-}
-
 .navbar-mobile-menu {
   display: none;
 }

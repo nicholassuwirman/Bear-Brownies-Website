@@ -72,6 +72,10 @@
   display: none;
 }
 
+.hero-button-container {
+  cursor: pointer;
+}
+
 @media screen and (max-width: 1024px) {
   .product-top {
     flex-direction: column;
@@ -113,5 +117,14 @@
 
   .product-function-description {
     font-size: 3.9vw;
+  }
+
+  .product-function-image {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
+
+  }
+
+  .product-function-container {
+    margin-bottom: 5vw;
   }
 }
